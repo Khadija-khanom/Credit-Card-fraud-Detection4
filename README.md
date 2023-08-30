@@ -352,6 +352,13 @@ A comparative analysis of the model performances is presented below:
 ![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/0887acf2-bb13-4cb1-ba52-9be8d3cb0220)
 
 
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/e1786659-a017-4c1a-8295-8489f3d3b2c3)
+
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/d81653f8-4750-4d07-8d12-0a50cb32984f)
+
+
+
+
 **Comparative Analysis:**
 
 - The Random Forest model achieves the highest accuracy of 0.9963, closely followed by the K-Nearest Neighbors (KNN) model with an accuracy of 0.9923.
