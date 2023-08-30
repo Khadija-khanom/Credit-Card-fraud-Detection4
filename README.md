@@ -54,4 +54,36 @@ The dataset includes features of different data types:
 - Int64 data type (e.g., ID, NO_OF_CHILD, BEGIN_MONTH) represents integer variables.
 
 **Summary:** This dataset appears to be suitable for building models to predict loan approval based on various applicant attributes. It includes information such as personal characteristics (gender, age), financial status (income, assets), employment details (years employed), and family-related information (family size, marital status). The target variable "TARGET" indicates whether an applicant's loan was approved or not.
+Table of Contents
+=================
+
+
+##Data Visualization
+
+**Calculate the correlation matrix**
+
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/7503aa62-ea7d-4eb8-be37-e353cc92a87d)
+
+**distribution of selected features**
+
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/f42d8dda-2d96-4fa7-be1b-e33733b3de48)
+
+**Box plot of age grouped by loan approval status**
+
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/72fef34c-b9b1-4c74-a06f-ecabeb31ba2f)
+
+**A pair plot to visualize relationships between numerical variables**
+
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/8331ac8d-a647-4f22-a7b4-d2998dde80c7)
+
+**Box plot of income grouped by gender and loan approval status**
+
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/37b8799a-4b62-4176-899a-59e85af65740)
+
+**Create age groups and plot distribution**
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/476ab611-5424-47da-9c39-d7e153d3348d)
+
+
+
+
 
