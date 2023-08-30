@@ -59,7 +59,7 @@ Table of Contents
 =================
 
 
-##Data Visualization
+#  Data Visualization
 
 **Calculate the correlation matrix**
 
