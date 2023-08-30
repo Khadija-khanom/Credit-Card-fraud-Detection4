@@ -1,5 +1,8 @@
 # Comparative Analysis of Machine Learning and Deep Learning Algorithms for Credit Card Fraud Detection on 4th Dataset
 
+![image](https://github.com/Khadija-khanom/Credit-Card-fraud-Detection4/assets/138976722/3e7c53bd-c3a2-406a-ba9a-1c1d3f2c2fc5)
+
+
 **Dataset Description:** The dataset contains information related to credit applications or loan approval. It consists of 25,134 entries (individual applicants) and 20 columns (features). Here's a breakdown of the columns and their meanings:
 
 **Unnamed:** 0: An index or identifier for the rows.
